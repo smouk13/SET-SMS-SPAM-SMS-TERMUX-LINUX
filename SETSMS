@@ -1,0 +1,9 @@
+pkg update && upgrade
+pkg install git 
+pkg install python3
+git clone https://github.com/Darkmux/SETSMS
+cd SETSMS
+bash SETSMS.sh
+
+
+!THE PROGRAM IS READY TO BE EXECUTED!
